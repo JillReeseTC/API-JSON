@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KS76y+u15Et4/n/fqWg6OR/kQe47fGm4weN6p7AexDBNN9Rn34B5xHFc6e4VTiT6XQGaRXiuFEzKXRe0YEQ4+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ajreese\\Documents\\csharp33\\API-JSON\\API-JSON\\API-JSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ajreese\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
